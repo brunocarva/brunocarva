@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a software engineer and ployglot from Chile. <br><br>I'm a hardworking, resourceful, and goal-oriented developer <br>looking for embracing new challenges and to make a positive impact. <br>I design scalable, user-friendly and quality products. Excellent<br>team player with a keen eye for detail and putting always the client <br>on the first priority. Exceptional problem solving and logic skills.<br><br>I'm currently working on new projects with React and Nodejs. <br><br>I'm passionate about learning new foreign languages, I actually speak 5! 
+Hello! I'm a software engineer and ployglot from Chile. <br><br>I'm a hardworking, resourceful, and goal-oriented developer <br>looking for embracing new challenges and to make a positive impact. <br>I design scalable, user-friendly and quality products. Excellent<br>team player with a keen eye for detail and putting always the client <br>on the first priority. Exceptional problem solving and logic skills.<br><br>I'm passionate about learning new foreign languages, I actually speak 5! 
 
 
 ## 🌐 Socials:
